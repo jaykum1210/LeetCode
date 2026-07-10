@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jaykum1210/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/jaykum1210/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jaykum1210/LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/jaykum1210/LeetCode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaykum1210/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaykum1210/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0344-reverse-string](https://github.com/jaykum1210/LeetCode/tree/master/0344-reverse-string) |
 ## Number Theory
 |  |
 | ------- |
