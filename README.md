@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jaykum1210/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jaykum1210/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/jaykum1210/LeetCode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/jaykum1210/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaykum1210/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaykum1210/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jaykum1210/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/jaykum1210/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaykum1210/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/jaykum1210/LeetCode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jaykum1210/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/jaykum1210/LeetCode/tree/master/0392-is-subsequence) |
 ## Number Theory
 |  |
 | ------- |
