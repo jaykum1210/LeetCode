@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jaykum1210/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/jaykum1210/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/jaykum1210/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/jaykum1210/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaykum1210/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jaykum1210/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaykum1210/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jaykum1210/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jaykum1210/LeetCode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/jaykum1210/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/jaykum1210/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaykum1210/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaykum1210/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/jaykum1210/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/jaykum1210/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/jaykum1210/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
