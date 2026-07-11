@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jaykum1210/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/jaykum1210/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaykum1210/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/jaykum1210/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/jaykum1210/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jaykum1210/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/jaykum1210/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/jaykum1210/LeetCode/tree/master/0383-ransom-note) |
 ## Number Theory
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaykum1210/LeetCode/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/jaykum1210/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
