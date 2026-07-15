@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/jaykum1210/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/jaykum1210/LeetCode/tree/master/0709-to-lower-case) |
+| [0830-positions-of-large-groups](https://github.com/jaykum1210/LeetCode/tree/master/0830-positions-of-large-groups) |
 | [1108-defanging-an-ip-address](https://github.com/jaykum1210/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jaykum1210/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/jaykum1210/LeetCode/tree/master/1678-goal-parser-interpretation) |
