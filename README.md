@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jaykum1210/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaykum1210/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/jaykum1210/LeetCode/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/jaykum1210/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/jaykum1210/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaykum1210/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaykum1210/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
