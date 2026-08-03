@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jaykum1210/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/jaykum1210/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jaykum1210/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/jaykum1210/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jaykum1210/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jaykum1210/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jaykum1210/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jaykum1210/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/jaykum1210/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/jaykum1210/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/jaykum1210/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/jaykum1210/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jaykum1210/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/jaykum1210/LeetCode/tree/master/0415-add-strings) |
