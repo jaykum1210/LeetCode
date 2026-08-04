@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jaykum1210/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaykum1210/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jaykum1210/LeetCode/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/jaykum1210/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/jaykum1210/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jaykum1210/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/jaykum1210/LeetCode/tree/master/0414-third-maximum-number) |
