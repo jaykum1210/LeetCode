@@ -4,8 +4,8 @@ class Solution {
         int profit = 0;
         for(int e : prices){
             if(e<min) min = e;
-            int total = e-min;
-            if(total>profit) profit = total;
+            int total = e - min;
+            profit = Math.max(profit,total);
         }
         return profit;
     }
