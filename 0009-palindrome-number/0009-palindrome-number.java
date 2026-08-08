@@ -5,12 +5,10 @@ class Solution {
         int rev = 0;
         while(x!=0){
             int b = x%10;
-            if(rev>Integer.MAX_VALUE/10 || rev<Integer.MIN_VALUE){
-                return false;
-            }
+            if(rev>Integer.MAX_VALUE/10 || rev<Integer.MIN_VALUE/10) return false;
             rev = rev*10 + b;
             x/=10;
         }
-        return ori==rev;
+        return rev==ori;
     }
 }
