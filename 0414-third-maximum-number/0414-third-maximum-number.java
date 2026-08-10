@@ -1,29 +1,21 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        long max1 = Long.MIN_VALUE;
-        long max2 = Long.MIN_VALUE;
-        long max3 = Long.MIN_VALUE;
-        for(int num : nums)
-        {
-            if( max1==num || max2==num || max3==num )
-                continue;
-            if( max1 < num )
-            {
-                max3 = max2;
-                max2 = max1;
-                max1 = num;
+        long max = Long.MIN_VALUE;
+        long sec = Long.MIN_VALUE;
+        long third = Long.MIN_VALUE;
+        for(int e : nums){
+            if(e==max || e==sec || e==third) continue;
+            if(e>max){
+                third = sec;
+                sec = max;
+                max = e;
             }
-            else if( max2 < num )
-            {
-                max3 = max2;
-                max2 = num;
+            else if(e>sec){
+                third = sec;
+                sec = e;
             }
-            else if( max3 < num )
-            {
-                max3 = num;
-            }
+            else if(e>third) third = e;
         }
-        if(max3 == Long.MIN_VALUE) return (int)max1;
-        return (int)max3;
+        return third==Long.MIN_VALUE ? (int)max : (int)third;
     }
 }
