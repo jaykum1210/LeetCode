@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/jaykum1210/LeetCode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/jaykum1210/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/jaykum1210/LeetCode/tree/master/0645-set-mismatch) |
+| [1189-maximum-number-of-balloons](https://github.com/jaykum1210/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jaykum1210/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jaykum1210/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/jaykum1210/LeetCode/tree/master/0709-to-lower-case) |
 | [0830-positions-of-large-groups](https://github.com/jaykum1210/LeetCode/tree/master/0830-positions-of-large-groups) |
 | [1108-defanging-an-ip-address](https://github.com/jaykum1210/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/jaykum1210/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/jaykum1210/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jaykum1210/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jaykum1210/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jaykum1210/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jaykum1210/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/jaykum1210/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jaykum1210/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jaykum1210/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Queue
