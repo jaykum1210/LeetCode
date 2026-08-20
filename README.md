@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/jaykum1210/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaykum1210/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaykum1210/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/jaykum1210/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jaykum1210/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/jaykum1210/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaykum1210/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/jaykum1210/LeetCode/tree/master/2235-add-two-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/jaykum1210/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
 | ------- |
