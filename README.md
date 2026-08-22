@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/jaykum1210/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaykum1210/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/jaykum1210/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/jaykum1210/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/jaykum1210/LeetCode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/jaykum1210/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/jaykum1210/LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/jaykum1210/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/jaykum1210/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/jaykum1210/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/jaykum1210/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/jaykum1210/LeetCode/tree/master/0709-to-lower-case) |
@@ -414,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/jaykum1210/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/jaykum1210/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/jaykum1210/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
