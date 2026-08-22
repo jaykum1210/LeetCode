@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaykum1210/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jaykum1210/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jaykum1210/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/jaykum1210/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/jaykum1210/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jaykum1210/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jaykum1210/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/jaykum1210/LeetCode/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/jaykum1210/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/jaykum1210/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/jaykum1210/LeetCode/tree/master/0867-transpose-matrix) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jaykum1210/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jaykum1210/LeetCode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/jaykum1210/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/jaykum1210/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jaykum1210/LeetCode/tree/master/0242-valid-anagram) |
