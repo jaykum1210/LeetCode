@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jaykum1210/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/jaykum1210/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/jaykum1210/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/jaykum1210/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaykum1210/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/jaykum1210/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/jaykum1210/LeetCode/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/jaykum1210/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/jaykum1210/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/jaykum1210/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/jaykum1210/LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaykum1210/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/jaykum1210/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/jaykum1210/LeetCode/tree/master/0709-to-lower-case) |
 | [0830-positions-of-large-groups](https://github.com/jaykum1210/LeetCode/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/jaykum1210/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/jaykum1210/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/jaykum1210/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/jaykum1210/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaykum1210/LeetCode/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/jaykum1210/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Counting
 |  |
 | ------- |
