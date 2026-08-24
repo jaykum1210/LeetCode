@@ -440,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/jaykum1210/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jaykum1210/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
