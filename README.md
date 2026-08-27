@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/jaykum1210/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/jaykum1210/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/jaykum1210/LeetCode/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/jaykum1210/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/jaykum1210/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jaykum1210/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaykum1210/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -450,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaykum1210/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jaykum1210/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
