@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaykum1210/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaykum1210/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/jaykum1210/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaykum1210/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jaykum1210/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/jaykum1210/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/jaykum1210/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jaykum1210/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaykum1210/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jaykum1210/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -458,4 +460,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jaykum1210/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaykum1210/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
