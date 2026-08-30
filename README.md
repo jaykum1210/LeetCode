@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/jaykum1210/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/jaykum1210/LeetCode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/jaykum1210/LeetCode/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/jaykum1210/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/jaykum1210/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jaykum1210/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaykum1210/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/jaykum1210/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/jaykum1210/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/jaykum1210/LeetCode/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/jaykum1210/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jaykum1210/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/jaykum1210/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/jaykum1210/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jaykum1210/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jaykum1210/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/jaykum1210/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaykum1210/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaykum1210/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
