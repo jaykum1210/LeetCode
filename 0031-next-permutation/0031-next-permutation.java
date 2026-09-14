@@ -4,13 +4,13 @@ class Solution {
             int temp = nums[start];
             nums[start] = nums[end];
             nums[end] = temp;
-            end--;
             start++;
+            end--;
         }
     }
     public void nextPermutation(int[] nums) {
         int pivot = -1;
-        for(int i = nums.length - 1;i>0;i--){
+        for(int i = nums.length-1;i>0;i--){
             if(nums[i]>nums[i-1]){
                 pivot = i-1;
                 break;
@@ -20,14 +20,14 @@ class Solution {
             int min = Integer.MAX_VALUE;
             int minindex = nums.length-1;
             for(int i = nums.length-1;i>pivot;i--){
-                if(nums[i]>nums[pivot] && nums[i]<min){
+                if(nums[i] > nums[pivot] && nums[i] < min){
                     min = nums[i];
                     minindex = i;
                 }
             }
-            int temp = nums[minindex];
-            nums[minindex] = nums[pivot];
-            nums[pivot] = temp;
+            int temp = nums[pivot];
+            nums[pivot] = nums[minindex];
+            nums[minindex] = temp;
         }
         reverse(nums,pivot+1,nums.length-1);
     }
