@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jaykum1210/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jaykum1210/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Merge Sort
 |  |
 | ------- |
@@ -515,12 +516,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/jaykum1210/LeetCode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jaykum1210/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/jaykum1210/LeetCode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jaykum1210/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/jaykum1210/LeetCode/tree/master/0836-rectangle-overlap) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/jaykum1210/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
