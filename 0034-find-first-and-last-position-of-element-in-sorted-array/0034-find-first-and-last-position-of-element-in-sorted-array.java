@@ -1,43 +1,35 @@
 class Solution {
-    public static int first(int[] nums,int target){
-        int low = 0;
-        int high = nums.length-1;
+    public static int search(int[] nums, int start, int end,int target, boolean first){
+        int left = start;
+        int right = end;
+        
         int ans = -1;
-        while (low<=high){
-            int mid = (low+high)/2;
-            if (nums[mid]==target){
+        
+        while(left<=right){
+            int mid = left + (right-left)/2;
+
+            if(nums[mid]==target){
                 ans = mid;
-                high = mid-1;
-            } else if (nums[mid] > target) {
-                high = mid-1;
+
+                if(first){
+                    right = mid-1;
+                }
+                else{
+                    left = mid+1;
+                }
+            }
+            else if(nums[mid]<target){
+                left = mid+1;
             }
             else{
-                low = mid+1;
-            }
-        }
-        return ans;
-    }
-    public static int last(int[] nums, int target){
-        int low = 0;
-        int high = nums.length-1;
-        int ans = -1;
-        while (low<=high){
-            int mid = (low+high)/2;
-            if (nums[mid]==target){
-                ans = mid;
-                low = mid+1;
-            } else if (nums[mid] > target) {
-                high = mid-1;
-            }
-            else{
-                low = mid+1;
+                right = mid-1;
             }
         }
         return ans;
     }
     public int[] searchRange(int[] nums, int target) {
-        int left = first(nums,target);
-        int right = last(nums,target);
-        return new int[]{left,right};
+        int first = search(nums,0,nums.length-1,target,true);
+        int last = search(nums,0,nums.length-1,target,false);
+        return new int[]{first,last};
     }
 }
