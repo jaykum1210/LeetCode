@@ -1,14 +1,24 @@
 class Solution {
     public int[] plusOne(int[] digits) {
+        ArrayList<Integer> list = new ArrayList<>();
+        int carry = 1;
         for(int i = digits.length-1;i>=0;i--){
-            if(digits[i]<9){
-                digits[i]++;
-                return digits;
-            }
-            digits[i] = 0;
+            int sum = digits[i] + carry;
+            int num = sum%10;
+            carry = sum/10;
+
+            list.add(0,num);
         }
-        int[] arr = new int[digits.length+1];
-        arr[0] = 1;
-        return arr;
+        if(carry>0){
+            list.add(0,carry);
+        }
+
+        int[] result = new int[list.size()];
+
+        for(int i = 0; i < list.size(); i++){
+            result[i] = list.get(i);
+        }
+
+        return result;
     }
 }
