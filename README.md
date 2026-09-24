@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jaykum1210/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jaykum1210/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/jaykum1210/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jaykum1210/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaykum1210/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaykum1210/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jaykum1210/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/jaykum1210/LeetCode/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/jaykum1210/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/jaykum1210/LeetCode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/jaykum1210/LeetCode/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jaykum1210/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaykum1210/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jaykum1210/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/jaykum1210/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jaykum1210/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/jaykum1210/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/jaykum1210/LeetCode/tree/master/0645-set-mismatch) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jaykum1210/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/jaykum1210/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jaykum1210/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/jaykum1210/LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/jaykum1210/LeetCode/tree/master/0415-add-strings) |
