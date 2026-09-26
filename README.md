@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/jaykum1210/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jaykum1210/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jaykum1210/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/jaykum1210/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaykum1210/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaykum1210/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/jaykum1210/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/jaykum1210/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jaykum1210/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaykum1210/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jaykum1210/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jaykum1210/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/jaykum1210/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/jaykum1210/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
