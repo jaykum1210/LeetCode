@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jaykum1210/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jaykum1210/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jaykum1210/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/jaykum1210/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jaykum1210/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jaykum1210/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jaykum1210/LeetCode/tree/master/0067-add-binary) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jaykum1210/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jaykum1210/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/jaykum1210/LeetCode/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/jaykum1210/LeetCode/tree/master/0415-add-strings) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jaykum1210/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaykum1210/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jaykum1210/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/jaykum1210/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/jaykum1210/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/jaykum1210/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/jaykum1210/LeetCode/tree/master/0068-text-justification) |
