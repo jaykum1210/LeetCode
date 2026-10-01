@@ -562,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/jaykum1210/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jaykum1210/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
