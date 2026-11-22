@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/jaykum1210/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/jaykum1210/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jaykum1210/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaykum1210/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
